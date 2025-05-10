@@ -1,5 +1,8 @@
 # Proyek Akhir: Menyelesaikan Permasalahan HR
 
+## Dashboard 
+**Dashboard:** [Looker HR Dashboard](https://lookerstudio.google.com/reporting/b8e88212-ef2a-4d1f-ad7b-407e7a2ae68b)
+
 ## Business Understanding
 
 Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Ia memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri.
