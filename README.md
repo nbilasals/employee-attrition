@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 Dashboard interaktif dibuat menggunakan Looker Studio. 
 
-- Jumlah total karyawab
+- Jumlah total karyawan
 - Jumlah Attrition
 - Attrition rate
 - Rata-rata pendapatan bulanan karyawan
