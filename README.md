@@ -52,6 +52,7 @@ git clone https://github.com/nbilasals/employee-attrition.git
 cd employee-attrition
 pip install -r requirements.txt
 ```
+---
 
 ## Business Dashboard
 
@@ -72,19 +73,10 @@ Dashboard interaktif dibuat menggunakan Looker Studio.
 ---
 
 ## Machine Learning Model
-### Model yang dicoba
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- XGBoost
-- K-Nearest Neighbors
-- Support Vector Machine
-
-### Model Terbaik
-- Model: Random Forest Classifier
-- Accuracy: 88%
-- Recall (attrition class): 79%
-- F1-Score: 81%
+- Model: XGBoost Classifier
+- Accuracy: 90%
+- Recall (attrition class): 90%
+- F1-Score: 90%
 - Teknik penyeimbangan data: SMOTE
 
 ---  
