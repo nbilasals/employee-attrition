@@ -68,6 +68,9 @@ Dashboard interaktif dibuat menggunakan Looker Studio.
 - Attrition by Education Field
 - Attrition by Department
 - Attrition by Gender
+- Attrition by Work Life Balance
+- Attrition by Monthly Income
+- Attrition by Years At Company
 
 
 ---
@@ -91,23 +94,26 @@ Dengan melakukan analisis menyeluruh terhadap data karyawan dan membangun model 
 - Membangun strategi retensi yang berbasis data dan prediksi
 
 ### Temuan Utama:
-#### Karakteristik Umum Karyawan yang Resign
-- Usia 20–30 tahun, masa kerja < 3 tahun
-- Kepuasan kerja rendah
-- Bekerja di departemen Sales dan Human Resources
-- Menerima gaji rendah-menengah
-- Tinggal >10 km dari kantor pusat
+- **Gender:** Mayoritas karyawan adalah laki-laki (60%), dan mereka juga mendominasi angka attrition (108 vs 71).
+- **Job Satisfaction:** Karyawan dengan kepuasan kerja **rendah** memiliki attrition tertinggi.
+- **Department:** Departemen **Research and Development** menyumbang attrition terbanyak.
+- **Job Role:** Posisi **Laboratory Technician** memiliki attrition tertinggi, sedangkan **Research Director** terendah.
+- **Job Involvement:** Tingkat keterlibatan kerja rendah berkorelasi dengan attrition yang tinggi.
+- **Work-Life Balance:** Attrition tinggi ditemukan pada karyawan dengan work-life balance **rendah** dan **sangat tinggi**.
+- **Monthly Income:** Attrition paling tinggi terjadi pada karyawan dengan gaji **5–10 juta**. Semakin tinggi gaji (>10 juta), semakin kecil kemungkinan resign.
+- **Years at Company:** Attrition paling tinggi terjadi di **tahun pertama dan kedua**. Setelah bekerja lebih dari 10 tahun, karyawan cenderung memilih untuk bertahan.
 
-#### Faktor-faktor yang Mempengaruhi Attrition
-- Job Satisfaction (kepuasan kerja)
-- Distance From Home (jarak rumah ke kantor)
-- Job Involvement (tingkat keterlibatan kerja)
-- Monthly Income (penghasilan per bulan)
 
 ### Rekomendasi Strategis:
 
-- Fleksibilitas kerja: Terapkan sistem hybrid atau WFH untuk karyawan yang tinggal jauh dari kantor.
-- Program retensi: Fokus pada karyawan baru (<3 tahun) dengan pelatihan, mentorship, dan career path yang jelas.
-- Review kompensasi: Tinjau ulang sistem kenaikan gaji dan insentif untuk departemen dengan attrition tinggi.
+- **Program retensi**: Fokus pada karyawan baru (<3 tahun) dengan pelatihan, mentorship, dan career path yang jelas.
+- **Review kompensasi**: Tinjau ulang sistem kenaikan gaji dan insentif untuk departemen dengan attrition tinggi.
 - Employee engagement: Buat program engagement rutin (misalnya one-on-one HR check-in).
 - Pemanfaatan prediksi: Gunakan model ini sebagai sistem peringatan dini untuk intervensi sebelum resign terjadi.
+- **Improve Job Satisfaction:** Lakukan survey dan program apresiasi.
+- **Review R&D & Lab Technician Roles:** Tinjau beban kerja dan jalur karir.
+- **Boost Job Involvement:** Berikan tanggung jawab dan proyek yang melibatkan karyawan.
+- **Balanced Work-Life Policy:** Berikan fleksibilitas tanpa mengorbankan produktivitas.
+- **Gender-Neutral Strategy:** Fokus pada perbaikan umum tanpa bias gender.
+- **Attrition Monitoring Dashboard:** Gunakan Looker dashboard untuk tracking rutin.
+
