@@ -57,6 +57,8 @@ pip install -r requirements.txt
 ## Business Dashboard
 
 Dashboard interaktif dibuat menggunakan Looker Studio. 
+![image](https://github.com/user-attachments/assets/6a12cde4-5ba9-43d6-87b7-446e2c104fc4)
+
 
 - Jumlah total karyawan
 - Jumlah Attrition
