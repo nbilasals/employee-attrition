@@ -88,7 +88,7 @@ Dashboard interaktif dibuat menggunakan Looker Studio.
 
 ## Conclusion
 
-Dari proyek ini, ditemukan beberapa faktor utama yang berkontribusi terhadap employee attrition, seperti jarak rumah ke kantor, tingkat kepuasan kerja, dan jumlah tahun bekerja di perusahaan.
+Dari proyek ini, ditemukan beberapa faktor utama yang berkontribusi terhadap employee attrition, seperti tingkat keterlibatan dala pekerjaan, tingkat kepuasan kerja, dan jumlah tahun bekerja di perusahaan.
 
 Dengan melakukan analisis menyeluruh terhadap data karyawan dan membangun model prediktif berbasis machine learning, proyek ini memberikan solusi konkret kepada manajemen HR untuk:
 - Memahami mengapa karyawan keluar
